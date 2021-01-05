@@ -1,4 +1,5 @@
-package io.apiapp.springbootstarter;
+package io.maryjay1.wwyw;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
